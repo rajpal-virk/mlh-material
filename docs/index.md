@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to My Learning Hub Documentation Site 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website contains the learning material for different subjects.  
+Material is organized by Subject and Grades.  
+To view the documentation, Select the Subjet Tab, then select the grade and the name of the topic.  
 
-## Commands
+Material: 
+ - Mathematics
+    - Grade 10
+        - Analytical Geometry
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
