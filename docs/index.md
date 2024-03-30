@@ -7,7 +7,5 @@ To view the documentation, select the Subject Tab, then select the Grade and the
 Material:
 
 - Mathematics
-
-  - Grade 10
-
+  - ??? "Grade 10"
     - Analytical Geometry
