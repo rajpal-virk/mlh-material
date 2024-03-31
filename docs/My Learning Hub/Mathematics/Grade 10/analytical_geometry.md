@@ -1,4 +1,4 @@
-# Analytical Geometry
+# **Analytical Geometry**
 
 Analyticl geometry is the study of geometry using coordinate system. This topic is also known as coordinate geometry or Cartesian geometry.
 
@@ -6,7 +6,7 @@ Analyticl geometry is the study of geometry using coordinate system. This topic 
 ---
 
 
-# Number Line
+# **Number Line**
 
 Keywords -
 
@@ -21,7 +21,7 @@ Keywords -
 ---
 
 
-# Coordinates
+# **Coordinates**
 
 - A set of 2-values that shows the exact location of a point in the coordinate plane.
 - Values are written inside parenthesis in x,y order (x,y).
@@ -36,7 +36,7 @@ Keywords -
 ---
 
 
-# Coordinate Plane
+# **Coordinate Plane**
 
 - A coordinate plane is a 2-d grid to represent shape and location of 2-d geometry. For 2-d geometry, it typically includes x-axis and y-axis.
 - The key purpose is to represent and visualize the location of objects in space.
@@ -49,7 +49,7 @@ Keywords -
 
 ---
 
-# Quadrants
+# **Quadrants**
 
 - The intersection of x-axis and y-axis in the coordinate plane divides plane into 4 equal parts.  
 - These parts are called quadrants because each part represents one-quarter of whole coordinate plane.
@@ -65,7 +65,7 @@ Keywords -
 
 ---
 
-# Point
+# **Point**
 
 - A Point is represented by dot (.) on a coordinate plane.
 - 0-dimensional object since it has no length, no width, no height and no depth. 
@@ -81,7 +81,7 @@ Keywords -
 ---
 
 
-# Line
+# **Line**
 
 - 1-dimensional object that has length but no width or height.
 - Line never ends therefore both ends of a line are marked with arrow marks.
@@ -92,7 +92,7 @@ Keywords -
 ---
 
 
-# Line Segment
+# **Line Segment**
 
 - Part of a line with 2 fixed end-points. In other words, you need 2 points to draw a line segment.
 - Usually abbreviated as a line. 
@@ -104,7 +104,7 @@ Keywords -
 ---
 
 
-# Distance between 2-points or Length of line segment
+# **Distance between 2-points or Length of line segment**
 
 - Below is the formula to find 
     - Distance between any 2 points
