@@ -48,6 +48,7 @@ plugins:
 #       link: https://www.linkedin.com/in/willettjames/
 #
 markdown_extensions:
+  - def_list
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
