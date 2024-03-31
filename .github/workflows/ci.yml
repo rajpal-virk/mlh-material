@@ -9,6 +9,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    using: 'node20'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
