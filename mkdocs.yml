@@ -69,7 +69,7 @@ markdown_extensions:
       generic: true
   - toc:
       permalink: true
-      baselevel: 3
+      baselevel: 2
       toc_depth: 3
 
 extra_javascript:
