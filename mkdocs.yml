@@ -4,6 +4,8 @@ site_url: https://rajpal-virk.github.io/mlh-material/
 nav:
   - Home: index.md
   - MatheMatics:
+      - Grade 6:
+          - Percent: "My Learning Hub/Mathematics/Grade 6/percent/percent.md"
       - Grade 10:
           - Analytical Geometry: "My Learning Hub/Mathematics/Grade 10/analytical_geometry.md"
 
