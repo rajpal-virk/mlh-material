@@ -14,7 +14,7 @@ theme:
     - navigation.tabs
     # - toc.integrate
     - navigation.top
-    # - navigation.instant
+    - navigation.instant
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -90,8 +90,8 @@ markdown_extensions:
   # - mdx_math
 
 extra_javascript:
-  # - javascripts/mathjax.js
-  # - javascripts/refresh_toc.js
+  - javascripts/mathjax.js
+  - javascripts/refresh_toc.js
   # - extra/mathjax.js
   # - https://polyfill.io/v3/polyfill.min.js?features=es6
   # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
