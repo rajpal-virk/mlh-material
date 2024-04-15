@@ -8,7 +8,7 @@ nav:
           - Percent: "My Learning Hub/Mathematics/Grade 6/percent/percent.md"
       - Grade 10:
           - Analytical Geometry: "My Learning Hub/Mathematics/Grade 10/analytical_geometry.md"
-
+          - Quadratic Equations: "My Learning Hub/Mathematics/Grade 10/quadratic_equations/quadratic_equations.md"
 theme:
   name: material
   navigation_depth: 3
@@ -83,6 +83,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - markdown.extensions.extra
+  - markdown.extensions.meta
+  - markdown.extensions.admonition
+  - markdown.extensions.smarty
   # - pymdownx.extra
   - pymdownx.arithmatex:
       generic: true

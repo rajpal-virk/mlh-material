@@ -1,18 +1,6 @@
-# **Percent**
-
- - Percent means "per 100" or "out of 100"
- - Percent symbol is %.
- - It is used to express the relationship of a number to the whole (100%).
- - Example 
-    - If you get 80 marks out of a total of 100 marks test, then you can say that you have obtained 80% (80 out of 100) marks.
-
-
----
-
-
 ## **Pre-requisites**
 
-- It is good to revise following topics (if already covered) before starting this topic - 
+- It is good to review following topics (if already covered) before starting this topic - 
     - Fractions
     - Decimal numbers
     - Order of operations (BBODMAS) (especially O = OF, which means multiplication)
@@ -21,22 +9,32 @@
 ---
 
 
+# **Percent**
+
+ - Percent is a number expressed as a fraction of 100.
+    - Percent means "per 100" or "out of 100"
+ - Percent symbol is **%**.
+ - It is used to express the relationship of a number to the whole (100%).
+ - Example 
+    - In a test of 100 marks, you have obtained 80 marks i.e. 80 marks out of 100 marks. This means that in percent, you have obtained 80% marks.
+
+
+---
+
+
 # **Converting to and from Percents**
-
-- Percents can be converted into Fractions and Decimals.
-- Fractions and Decimals can be converted into Percents .
-
+- Percents can be converted to Fractions and Decimals, and vice-versa.
 
 ---
 
 
 ## **Converting Percents into Fractions**
 
-- To convert a number with percent to fraction, simply replace % with divided by 100.
+- To convert a percent value to fraction, simply replace % with "divided by 100".
 - Example
     $$ 20\% = 20 \div 100 = \frac{20}{100}  $$
 
-- Simplify your fraction further if possible. 
+    - Simplify your fraction further if possible. 
     $$ \frac{20}{100} = \frac{1}{5} $$
     
     In above case, we simplified the fraction.  
@@ -103,6 +101,37 @@
     If you have a number with more than 2-digits after decimal, you will only use number 100 from denominator to convert numerator into percentage. Additional zeros(0) in denominator will be used to convert the number back in decimal form.  
     your answer will be a decimal percent number. 
     $$ 3.567 = \frac{3567}{1000} = \frac{3567}{(10*100)} = \frac{3567\%}{10} = 356.7\%$$
+
+
+---
+
+
+# **Represent Percent value on Percent Line**
+- Draw a line segment if not given and mark 2 endpoints on both ends of it. 
+- Label 1st endpoint (on left side of line segment) as 0% and 2nd endpoint (on right side of line segment) as 100%.
+- Divide the line in-between in 10 equal parts 
+- you can also label each part as shown below - 
+    - 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, and 90%.
+
+$$
+
+\begin{tikzpicture}
+% Draw horizontal line
+\draw (0,0) -- (10,0);
+% Draw vertical lines
+\foreach \x in {0,1,...,10} {
+    \draw (\x cm,3pt) -- (\x cm,-3pt);
+}
+% Draw nodes
+\foreach \x/\percent in {0/0,1/10,10/100} {
+    \node[below] at (\x,-3pt) {\percent\%};
+}
+\end{tikzpicture}
+
+$$
+
+
+- OR you can label the middle part (mark) of line as 50%.
 
 
 ---
