@@ -108,7 +108,7 @@ $=5x(x + 5)$
 
 # **Quadratic equation**
 
-- $ax^2 + b^x + c = 0$
+- $ax^2 + b*x + c = 0$
 - here 
     - a, b, c are numbers.
     - a and b are called coefficients. 
