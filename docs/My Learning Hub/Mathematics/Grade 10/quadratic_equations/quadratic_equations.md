@@ -56,7 +56,7 @@
 
 
 
- ---
+---
 
 
 # **Expand and Simplify**
@@ -85,6 +85,9 @@ $=a*a + a*-5 + 2*a + 2*-5$
 $=a^2 -5a + 2a  -10$
 
 $=a^2 -3a -10$
+
+
+---
 
 
 # **GCF of terms**
@@ -116,6 +119,9 @@ $=5x(x + 5)$
     - $ax^2$ - quadratic term since variable is raised to the power of 2.
     - $bx$ - linear term because variable is raised to the power is 1.
     - $ax^2 + b^x + c$ - this is quadratic expression.
+
+
+---
 
 
 # **Factoring Quadratic expression**
@@ -167,6 +173,9 @@ $=5x(x + 5)$
         $(2x + 5)(2x +1)$
 
 
+---
+
+
 # **Finding Roots of Quadratic Equations**
 
 ## Steps
@@ -207,4 +216,6 @@ $=5x(x + 5)$
         $x  = \frac{-1}{2}$
 
 
+
+---
 
