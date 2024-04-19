@@ -1,6 +1,4 @@
-# Registration
-
-# Algebric Expression
+## **Algebric Expression**
 
 - Expressions are made of variables and/or constants
 - Examples
@@ -14,7 +12,7 @@
 ---
 
 
-# **Algebric Equations**
+## **Algebric Equations**
 
 - Equations are made of expressions with an equal-to in it.
 - Examples

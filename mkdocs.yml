@@ -105,6 +105,7 @@ markdown_extensions:
 
   - toc:
       permalink: true
+
 extra_css:
   - stylesheets/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
@@ -142,7 +143,12 @@ extra:
 nav:
   - Home: assets/pages/website/index.md
   - Mathematics:
-      - Quadratic Equations: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations.md
+      - Grade 3:
+          - Fractions: assets/pages/mathematics/Grade3/fractions/fractions.md
+      - Grade 4:
+          - Fractions: assets/pages/mathematics/Grade4/fractions/fractions.md
+      - Grade 10:
+          - Quadratic Equations: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations.md
+          - Quadratic Equation Quizzes: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations_quizzes.md
   - Registration: assets/pages/website/registration.md
-  # - Rough: rough.md
   
