@@ -141,7 +141,7 @@ extra:
 
 # Page tree
 nav:
-  - Home: assets/pages/website/index.md
+  - Home: index.md
   - Mathematics:
       - Grade 3:
           - Fractions: assets/pages/mathematics/Grade3/fractions/fractions.md
