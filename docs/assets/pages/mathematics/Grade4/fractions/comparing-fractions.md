@@ -18,7 +18,7 @@
 2-subcases:
 
 
- === "Subcase 1" 
+=== "Subcase 1" 
  
  
     **Subcase - 1. when one (smaller) denominator is a factor of other (larger) denominator.**
