@@ -95,3 +95,45 @@
     $$ \frac{21-20}{35} $$
 
     $$ \frac{1}{35} $$
+
+
+---
+
+
+## **Multiplying Fractions**
+
+We can simply multply fractions by multiplying numerator with numerators and denominator with denominator.
+
+
+$$ \frac{numerator}{denominator} * \frac{numerator}{denominator} $$
+
+$$ \frac{(numerator * numerator)}{(denominator * denominator)} $$
+
+Example - 
+
+$$\frac{3}{5} * \frac{4}{10}$$
+
+$$\frac{3*4}{5*10}$$
+
+$$\frac{12}{50}$$
+
+
+---
+
+
+## **Dividing Fractions**
+
+Flip the last fraction and change the division sign to multiplication sign. Then simply multiply the fractions.
+
+
+Example - 
+
+$$\frac{3}{5} \div \frac{4}{10}$$
+
+Flip the last fraction $\frac{4}{10}$ to $\frac{10}{4}$ and change sign $\div$ to $\times$
+
+$$\frac{3}{5} * \frac{10}{4}$$
+
+$$\frac{3*10}{5*4}$$
+
+$$\frac{30}{20}$$

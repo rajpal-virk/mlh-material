@@ -43,7 +43,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.top
-    - navigation.footer
+    # - navigation.footer
 
     - search.suggest
     - search.highlight
@@ -152,5 +152,8 @@ nav:
       - Grade 10:
           - Quadratic Equations: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations.md
           - Quadratic Equation Quizzes: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations_quizzes.md
+  - Python:
+      - Introduction: assets/pages/python/introduction.md
   - Registration: assets/pages/website/registration.md
+  - Contact Us: assets/pages/website/contact.md
   
