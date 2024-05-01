@@ -154,6 +154,8 @@ nav:
           - Quadratic Equation Quizzes: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations_quizzes.md
   - Python:
       - Introduction: assets/pages/python/introduction.md
+      - Comments: assets/pages/python/comments.md
+      - Variables: assets/pages/python/variables.md
   - Registration: assets/pages/website/registration.md
   - Contact Us: assets/pages/website/contact.md
   
