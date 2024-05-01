@@ -11,7 +11,7 @@ Variables are used to store the data.
 Examples:
 
 ```python
-# example of correct varaible names
+# examples of correct varaible names
 num1 = 10
 num_1 = 10.5
 num1_ = 20
@@ -23,20 +23,47 @@ my_var = "hello"
 _my_var = "hello"
 myVar = "hello"
 MyVar = "hello"
+```
 
-# exmples of incorrect variable names
+
+```python
+# examples of incorrect variable names
 2myvar = "hello"
 my-var = "hello"
 my var = "hello"
+```
+
+---
+
+
+## Assigning values to variables
+
+- Use "Equal-to" (=) to assign values to hte variables.
+- Assign different values to multiple variables in a single line. Example: x, y, z = 10, 20, "numbers".
+- Assign single values to multiple variables in a single line. Example x = y = z = "single value".
+
+
+---
+
+
+## Output value of variable
+
+- Use print() function, to print the output of a variable.
+- You can pass multiple variables in a single print() function separated by commas(,) or by `+` operator to get output of each variable.
+
+```python
+x = "hello "
+print(x)
+
+y = "world"
+print(y)
+
+# printing values of x and y toghether
+print(x, y)
 ```
 
 
 ---
 
 
-# Assigning values to variables
-
-- Use "Equal-to" (=) to assign values to hte variables.
-- Assign different values to multiple variables in a single line. Example: x, y, z = 10, 20, "numbers".
-- Assign single values to multiple variables in a single line. Example x = y = z = "single value".
-
+## 
