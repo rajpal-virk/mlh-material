@@ -18,6 +18,10 @@
 - [Download Python](https://www.python.org/downloads/) - Download python on your pc.
 - Once download is completed, run installation. 
 
+
+---
+
+
 ### Installing VS Code
 
 Visual Studio Code (VS Code) is a popular IDE (Integrated Development Enviornment) and is widely used by professional programmers.
@@ -31,6 +35,10 @@ Visual Studio Code (VS Code) is a popular IDE (Integrated Development Enviornmen
 
 !!! Tip
     Python executes codes line-by-line.
+
+
+---
+
 
 ### Test your installation
 
@@ -53,6 +61,9 @@ Visual Studio Code (VS Code) is a popular IDE (Integrated Development Enviornmen
     ```python
     print("hello world")
     ``` 
+
+
+---
 
 
 ### Folder and Filename structure
