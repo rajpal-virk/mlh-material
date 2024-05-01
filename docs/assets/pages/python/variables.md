@@ -75,6 +75,8 @@ num1 = 10
 num2 = 20
 print(num1 + num2) # the output of this print function will be 30.
 ```
+
+
 ---
 
 
