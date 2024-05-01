@@ -1,3 +1,5 @@
+## Variables
+
 Variables are used to store the data. 
 
 ## Variable Names
@@ -50,6 +52,7 @@ my var = "hello"
 
 - Use print() function, to print the output of a variable.
 - You can pass multiple variables in a single print() function separated by commas(,) or by `+` operator to get output of each variable.
+- If you use + operator to print outputs of 2 variables that are storing numbers, the output will be addition of those numbers.
 
 ```python
 x = "hello "
@@ -59,11 +62,19 @@ y = "world"
 print(y)
 
 # printing values of x and y toghether
-print(x, y)
+print(x, y) # the output of this print function will be "hello world"
+print(x + y) # the output of this print function will be "hello world"
 ```
 
-
+```python
+# when numbers are stored in variables and we use + operator to get the combined output of such 2 variables.
+num1 = 10
+num2 = 20
+print(num1 + num2) # the output of this print function will be 30.
+```
 ---
 
 
-## 
+## Global Variables
+
+>>> Must be covered after class on custom functions. 
