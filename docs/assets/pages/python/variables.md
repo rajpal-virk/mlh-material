@@ -39,3 +39,4 @@ my var = "hello"
 - Use "Equal-to" (=) to assign values to hte variables.
 - Assign different values to multiple variables in a single line. Example: x, y, z = 10, 20, "numbers".
 - Assign single values to multiple variables in a single line. Example x = y = z = "single value".
+
