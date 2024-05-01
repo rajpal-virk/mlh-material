@@ -53,3 +53,16 @@ Visual Studio Code (VS Code) is a popular IDE (Integrated Development Enviornmen
     ```python
     print("hello world")
     ``` 
+
+
+### Folder and Filename structure
+
+These steps will help maintaining a proper foldername and filename structure for your codes. 
+
+1. Create a new folder (main working directory) on Desktop. You can choose any name for this folder or simply call it by <yourname-python>. This step should be done once only.
+2. Inside this main working directory, create a folder everytime you work on new sets of codes/scripts. Foldername format for these folders date should be in "yyyy-mm-dd" format. For example - "2024.02.01" - This foldername indicates that folder is created on 1st Feb 2024.
+
+
+
+
+
