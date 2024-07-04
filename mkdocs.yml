@@ -145,20 +145,20 @@ extra:
 # Page tree
 nav:
   - Home: index.md
-  - Mathematics:
-      - Grade 3:
-          - Fractions: assets/pages/mathematics/Grade3/fractions/fractions.md
-      - Grade 4:
-          - Fractions: assets/pages/mathematics/Grade4/fractions/fractions.md
-          - Comparing Fractions: assets/pages/mathematics/Grade4/fractions/comparing-fractions.md
-          - Mathematical Operations on Fractions: assets/pages/mathematics/Grade4/fractions/math-operations-fractions.md 
-      - Grade 10:
-          - Quadratic Equations: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations.md
-          - Quadratic Equation Quizzes: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations_quizzes.md
-  - Python:
-      - Introduction: assets/pages/python/introduction.md
-      - Comments: assets/pages/python/comments.md
-      - Variables: assets/pages/python/variables.md
+#  - Mathematics:
+      #- Grade 3:
+          #- Fractions: assets/pages/mathematics/Grade3/fractions/fractions.md
+      #- Grade 4:
+          #- Fractions: assets/pages/mathematics/Grade4/fractions/fractions.md
+          #- Comparing Fractions: assets/pages/mathematics/Grade4/fractions/comparing-fractions.md
+          #- Mathematical Operations on Fractions: assets/pages/mathematics/Grade4/fractions/math-operations-fractions.md 
+      #- Grade 10:
+          #- Quadratic Equations: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations.md
+          #- Quadratic Equation Quizzes: assets/pages/mathematics/grade10/quadratic_equations/quadratic_equations_quizzes.md
+  #- Python:
+      #- Introduction: assets/pages/python/introduction.md
+      #- Comments: assets/pages/python/comments.md
+      #- Variables: assets/pages/python/variables.md
   - Registration: assets/pages/website/registration.md
   - Contact Us: assets/pages/website/contact.md
   
